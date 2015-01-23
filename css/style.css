@@ -1,21 +1,54 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 
+@import 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/167621/normalize.css';
 * {
     font-family: 'Lato', sans-serif;
 	font-weight: 300;
 }
-
-.navi{
+a{
 	text-decoration:none;
 	color:black;
 }
-
 body { 
 	background: #fff; 
 	margin: 0; 
 }
-
 #logo{
 	padding:5px;
 	text-decoration: center;
 }
+* {
+	box-sizing: border-box;
+}
+.main-footer {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
+/* JAMES FRANCO- PORTFOLIO SECTION */
+
+
+
+
+
+
+/* SETH ROGAN- PORTFOLIO SECTION */
+
+
+
+
+
+
+/* RANDALL PARK- PORTFOLIO SECTION */
+
+
+
+
+
+
+
+
+/* LIZZY CAPLAN- PORTFOLIO SECTION */

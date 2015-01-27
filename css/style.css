@@ -28,7 +28,9 @@ body {
 .navi{
 	display:inline;
 }
-
+body{
+	background-image: url("img/background.jpg") no-repeat;
+}
 
 
 /* JAMES FRANCO- PORTFOLIO SECTION */

@@ -104,12 +104,6 @@ footer {
   font-size: 0.75em;
 }
 
-div {
-    border: 15px solid transparent;
-    width: 250px;
-    padding: 10px 20px;
-}
-
 nav ul {
   list-style: none;
   margin: 0 10px;
